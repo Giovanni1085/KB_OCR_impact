@@ -1,3 +1,8 @@
+# project specific
+data_frames/
+topic_modelling/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
