@@ -1,0 +1,8 @@
+pandas
+BeautifulSoup4
+matplotlib
+nltk
+gensim
+sklearn
+spacy
+seaborn
