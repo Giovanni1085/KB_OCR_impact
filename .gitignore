@@ -1,6 +1,5 @@
 # project specifics
-topic_modelling/
-
+WORK_IN_PROGRESS*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
