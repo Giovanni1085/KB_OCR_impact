@@ -1,7 +1,7 @@
 # project specifics
 WORK_IN_PROGRESS*
-#data_frames/*
-#data_frames_evaluation/*
+data_frames/*
+data_frames_evaluation/*
 folder_topic_modelling/*
 folder_classification/*
 figures/*
