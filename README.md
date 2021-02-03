@@ -16,15 +16,15 @@ The project's proposal can be found [here](https://github.com/Giovanni1085/KB_OC
 
 The datasets we use are documented in the repository's wiki. See [here](https://github.com/Giovanni1085/KB_OCR_impact/wiki/Datasets) for details on the datasets, and [here](https://github.com/Giovanni1085/KB_OCR_impact/wiki/Evaluations) for the assessment of their OCR quality.
 
-* The [Data frames - setup](Data frames - setup.ipynb) notebook contains code to exemplify how we pre-processed KB data in order to then use it for the project.
-* The [Data frames - Evaluation](Data frames - evaluation.ipynb) notebook contains code to show the outcomes of the assessment of the OCR quality of these datasets which we conducted as part of the project. See here](https://github.com/Giovanni1085/KB_OCR_impact/wiki/Evaluations) for more details. 
+* The [Data frames - setup](https://github.com/Giovanni1085/KB_OCR_impact/blob/master/Data%20frames%20-%20setup.ipynb) notebook contains code to exemplify how we pre-processed KB data in order to then use it for the project.
+* The [Data frames - Evaluation](https://github.com/Giovanni1085/KB_OCR_impact/blob/master/Data%20frames%20-%20evaluation.ipynb) notebook contains code to show the outcomes of the assessment of the OCR quality of these datasets which we conducted as part of the project. See [here](https://github.com/Giovanni1085/KB_OCR_impact/wiki/Evaluations) for more details. 
 * The folder [data frames evaluation](data_frames_evaluation/) contains the final datasets which we used for our experiments.
 
 ### Tasks
 
 This repository contains results for two tasks:
-* [Topic modelling]([ANALYSIS] Topic modelling.ipynb)
-* [Document classification]([ANALYSIS] Classification.ipynb)
+* [Topic modelling](https://github.com/Giovanni1085/KB_OCR_impact/blob/master/%5BANALYSIS%5D%20Topic%20modelling.ipynb)
+* [Document classification](https://github.com/Giovanni1085/KB_OCR_impact/blob/master/%5BANALYSIS%5D%20Classification.ipynb)
 
 ## How to run
 
