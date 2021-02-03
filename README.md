@@ -1,5 +1,7 @@
 # Is your OCR good enough?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4498186.svg)](https://doi.org/10.5281/zenodo.4498186)
+
 This repository contains code developed as part of the KB residency project: "Is your OCR good enough? A comprehensive assessment of the impact of OCR quality on downstream tasks." Refer to [this blog post](https://lab.kb.nl/about-us/blog/your-ocr-good-enough-comprehensive-assessment-impact-ocr-quality-downstream-tasks) for more info on the project.
 
 ## Goals of the project
@@ -18,7 +20,7 @@ The datasets we use are documented in the repository's wiki. See [here](https://
 
 * The [Data frames - setup](https://github.com/Giovanni1085/KB_OCR_impact/blob/master/Data%20frames%20-%20setup.ipynb) notebook contains code to exemplify how we pre-processed KB data in order to then use it for the project.
 * The [Data frames - Evaluation](https://github.com/Giovanni1085/KB_OCR_impact/blob/master/Data%20frames%20-%20evaluation.ipynb) notebook contains code to show the outcomes of the assessment of the OCR quality of these datasets which we conducted as part of the project. See [here](https://github.com/Giovanni1085/KB_OCR_impact/wiki/Evaluations) for more details. 
-* The folder [data frames evaluation](data_frames_evaluation/) contains the final datasets which we used for our experiments.
+* The folder [data frames evaluation](data_frames_evaluation/) contains the final datasets which we used for our experiments. The same datasets are also available [in Zenodo](https://doi.org/10.5281/zenodo.4498186).
 
 ### Tasks
 
