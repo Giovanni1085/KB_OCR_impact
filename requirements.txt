@@ -37,7 +37,7 @@ jedi==0.16.0
 jellyfish==0.7.2
 json5==0.9.5
 jupyter==1.0.0
-jupyterlab==2.2.6
+jupyterlab==2.2.10
 llvmlite==0.34.0
 locket==0.2.1
 MarkupSafe==1.1.1
