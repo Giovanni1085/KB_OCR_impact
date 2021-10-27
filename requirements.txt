@@ -15,7 +15,7 @@ cycler==0.10.0
 cymem==1.31.2
 cysignals==1.10.2
 cytoolz==0.9.0.1
-dask==2.10.1
+dask==2021.10.0
 defusedxml==0.6.0
 dill==0.2.9
 distributed==2.10.0
