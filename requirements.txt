@@ -18,7 +18,7 @@ cytoolz==0.9.0.1
 dask==2.10.1
 defusedxml==0.6.0
 dill==0.2.9
-distributed==2.10.0
+distributed==2021.10.0
 docutils==0.15.2
 en-core-web-sm==2.0.0
 entrypoints==0.3
